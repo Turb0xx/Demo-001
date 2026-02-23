@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\controllers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\controllers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\controllers\\jsondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\controllers\\jsondemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\controllers\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\controllers\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|c:\\users\\compu\\documents\\tec web\\json-demo\\json-demo\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AAC014-24A3-4D5B-9277-253C76F89C79}|json-demo\\json-demo.csproj|solutionrelative:json-demo\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\Person.cs",
+              "RelativeDocumentMoniker": "json-demo\\Controllers\\Person.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\Person.cs",
+              "RelativeToolTip": "json-demo\\Controllers\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:46:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "json-demo\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "json-demo\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:45:25.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\Posts.cs",
+              "RelativeDocumentMoniker": "json-demo\\Controllers\\Posts.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\Posts.cs",
+              "RelativeToolTip": "json-demo\\Controllers\\Posts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:40:52.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "json-demo\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "json-demo\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwv0EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:10:34.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "json-demo\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\JsonHelper.cs",
+              "RelativeToolTip": "json-demo\\JsonHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T21:08:52.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\JsonDemoController.cs",
+              "RelativeDocumentMoniker": "json-demo\\Controllers\\JsonDemoController.cs",
+              "ToolTip": "C:\\Users\\COMPU\\Documents\\Tec Web\\json-demo\\json-demo\\Controllers\\JsonDemoController.cs",
+              "RelativeToolTip": "json-demo\\Controllers\\JsonDemoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:40:27.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
